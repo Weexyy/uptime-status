@@ -17,9 +17,9 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
-      text: 'Blog',
-      url: 'https://weexy.cn/'
-    },
+//    {
+//      text: 'Blog',
+//      url: 'https://weexy.cn/'
+//    },
   ],
 };
