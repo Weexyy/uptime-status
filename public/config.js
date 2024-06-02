@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '服务状态',
+  SiteName: '服务状态 | Weexy',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -14,7 +14,6 @@ window.Config = {
     'm796688043-437218713e6d845a076a87b7',
     'm796688046-1b02bd761fbf1439375855f1',
     'm796688086-9ffa0716f0dcc1d69c39f82e',
-    'm796688211-fa8fb666e756459708b160bb',
   ],
 
   // 日志天数
@@ -26,7 +25,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
 //    {
-//      text: 'Blog',
+//      text: 'Home',
 //      url: 'https://weexy.cn/'
 //    },
   ],
